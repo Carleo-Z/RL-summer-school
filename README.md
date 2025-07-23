@@ -1,4 +1,8 @@
 # RL-summer-school
+2025/07/23 update:
+Problem 1 folder now includes my solution to the discrete grid world problem using Monte Carlo and Q-learning method respectively. Currently I am working on finishing the continuous grid world problem, which will be updated here in a few days.
+
+Overview:
 This repo collects my notes and work whilst engaging in a summer school on the topic of Reinforcement Learning X Chemical engineering, taught by Daniel Cristiu and Dr Del Rio Chanona.
 
 Inside each problem folder you will find:
